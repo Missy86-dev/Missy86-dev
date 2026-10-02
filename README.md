@@ -1,4 +1,4 @@
-# Professional Profile
+# Software Developer
 
 Full-Stack Web Developer focused on building <b>clean, responsive, and user-friendly web applications</b>. Currently seeking a <b>web development internship</b>.
 
