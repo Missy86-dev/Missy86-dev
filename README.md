@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Detail-oriented Web Developer crafting clean, responsive, high-performance applications with maintainable code, seamless user experiences,using modern web tools.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/comfort-dele-orelusi-30610625a/)
+* 🖥️  See my portfolio at [Terrace](http://terrace-lovat.vercel.app/)
 * ✉️  You can contact me at [elliot.lola@gmail.com](mailto:elliot.lola@gmail.com)
-* 🚀  I'm currently working on [Cadence](http://https://cadence-eta-azure.vercel.app/)
+* 🚀  I'm currently working on [Cadence](http://cadence-eta-azure.vercel.app/)
 * 🧠  I'm currently learning Backend
 * 👥  I'm looking to collaborate on Building Web Application
 
@@ -25,4 +25,4 @@ src="https://img.shields.io/github/followers/Missy86-dev?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Missy86-dev/oodeoprojects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Missy86-dev&repo=oodeoprojects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Missy86-dev/Terrace" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Missy86-dev&repo=Terrace&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Missy86-dev/terrace" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Missy86-dev&repo=terrace&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Missy86-dev/oodeoprojects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Missy86-dev&repo=oodeoprojects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
